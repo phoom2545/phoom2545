@@ -21,8 +21,6 @@ Recent graduate with hands-on experience in data science, computer vision, and d
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
 📫 Reach me via phoomwork7@gmail.com  
   
 
@@ -30,13 +28,7 @@ Recent graduate with hands-on experience in data science, computer vision, and d
   
 
 🌱 I’m currently learning React, OpenCV, PySpark, and Tensorflow  
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
+  
 
 <br/>  
 
@@ -69,33 +61,7 @@ Recent graduate with hands-on experience in data science, computer vision, and d
 <a href="https://d3js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/d3js-original.svg" alt="D3.js" height="25" /></a>  
 <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="25" /></a>  
 <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="25" /></a>  
-</div>  
-
-<br/>  
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=phoom2545&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phoom2545&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
+</div>
 <br />
 
 ----
